@@ -1,0 +1,49 @@
+body {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.wrapper {
+  margin: 200px auto;
+  text-align: center;
+}
+.wordsReversed {
+  font-size: 50px;
+  text-align: center;
+}
+
+button{
+  text-align: center;
+  font-size: 20px;
+  width: 100px;
+  height:50px;
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+button:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+.yourAnswer{
+  font-size: 30px;
+  width: 400px;
+  height:100px;
+  border: 1px bold;
+  text-align: center;
+  border: 2px solid #000;
+}
+.form {
+  text-align: center;
+}
+.submitButton {
+  font-size: 20px;
+  width: 100px;
+  height:50px;
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+.submitButton:hover {
+    background-color: #4CAF50;
+    color: white;
+}
